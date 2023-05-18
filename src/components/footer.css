@@ -1,0 +1,25 @@
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  bottom: 15px;
+  width: 100%;
+  height: fit-content;
+}
+
+.comment {
+  font-size: 25px;
+  color: #fff;
+  padding: 0 20px;
+}
+.fav-icon {
+  padding: 0 20px;
+  font-size: 25px;
+  color: red;
+}
+.favorite {
+  padding: 0 20px;
+  font-size: 25px;
+}
